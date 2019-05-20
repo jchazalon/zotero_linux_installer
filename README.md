@@ -1,5 +1,5 @@
 # zotero_linux_installer: Installer for Zotero standalone on Linux platforms.
-**A simple tool to ease Zotero installation under Linux. Automating the strict minimum. Single script. Easy to maintain.**
+**A simple tool to ease [Zotero](https://www.zotero.org/) installation under Linux. Automating the strict minimum. Single script. Easy to maintain.**
 
 ## About
 This is a modified fork from [smathot's script](https://github.com/smathot/zotero_installer) to
